@@ -7,7 +7,7 @@
 
 ## At the counter
 
-If a mailbox looks compromised, start with **BEC** to trace email and account activity. If you have Windows event logs, **CrumbTrail** turns them into a timeline. For a Microsoft 365 security review, pick **Flapjacks**. [Browse the tool workflows](https://github.com/PendingUpdates/Response-Menu/blob/main/docs/tool-workflows.md).
+If a mailbox looks compromised, start with **BEC** to trace email and account activity. If you have Windows event logs, **CrumbTrail** turns them into a timeline. For a Microsoft 365 security review, pick **Flapjacks**. For an on-premises Active Directory Group Policy audit, use **GPO Grits** to review exported policies offline. [Browse the tool workflows](https://github.com/PendingUpdates/Response-Menu/blob/main/docs/tool-workflows.md).
 
 ## At the terminal
 
