@@ -3,7 +3,7 @@
 **[Open the Response Menu](https://github.com/PendingUpdates/Response-Menu)** for incident response and security audit tools.<br>
 **[Visit PendingUpdates.com](https://pendingupdates.com/)** for vulnerability records and vendor patch guidance.
 
-![A hinged menu shows the green PendingUpdates prompt beside the BEC sandwich and a CRT. Separate red booths line the back of the pixel-art diner.](https://raw.githubusercontent.com/PendingUpdates/.github/main/profile/assets/night-shift.webp)
+![A hinged menu bearing the PendingUpdates prompt, the BEC sandwich and a green CRT share a pixel-art counter. Two red booths sit just behind it against navy brick.](https://raw.githubusercontent.com/PendingUpdates/.github/main/profile/assets/night-shift.webp?v=c20c78a3)
 
 ## At the counter
 
